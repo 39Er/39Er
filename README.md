@@ -11,5 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=39Er)](https://github.com/39Er)
 
 
-- ### preject
+- ### project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=39Er&repo=MicroService)](https://github.com/39Er/MicroService)
