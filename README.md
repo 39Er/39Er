@@ -1,7 +1,7 @@
 # 39Er's profile
 
-- 🔭 I’m working at Xiaomi
-- 🌱 I’m currently learning golang/spring cloud/hadoop/spark
+- 🔭 I’m working at Alibaba
+- 🌱 I’m currently learning golang/java/spring cloud/hadoop/spark
 
 
 - ### stats
